@@ -6,10 +6,13 @@ Simple scraping tool that I threw together to clone a website given a list of UR
 
 ## OS & Python Version Info
 
-Distributor ID: *Kali*
-Description:    *Kali GNU/Linux Rolling*
-Release:        *2022.2*
-Codename:       *kali-rolling*
+```bash
+lsb_release -a
+# Distributor ID: Kali
+# Description:    Kali GNU/Linux Rolling
+# Release:        2022.2
+# Codename:       kali-rolling
+```
 
 *Tested using Python 3.10.4*
 
