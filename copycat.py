@@ -100,7 +100,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "urls",
-        help="specify afile name containing a list of URLs"
+        help="specify a file name containing a list of URLs"
     )
     parser.add_argument(
         "-o", "--outfile",
